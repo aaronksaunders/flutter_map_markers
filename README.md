@@ -1,6 +1,6 @@
-# hello_world
+# Flutter Map Markers Example Using Google Maps Plugin
 
-A new Flutter project.
+A new Flutter Google Maps project.
 
 ## Getting Started
 
