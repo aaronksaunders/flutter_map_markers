@@ -1,6 +1,10 @@
 # Flutter Map Markers Example Using Google Maps Plugin
 
-A new Flutter Google Maps project.
+A Sample Flutter Google Maps project.
+
+- renders map
+- renders markers on map
+- calculates `LatLngBounds` from the markers to ensure they are visible
 
 ## Getting Started
 
