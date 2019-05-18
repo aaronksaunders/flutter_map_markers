@@ -6,6 +6,10 @@ A Sample Flutter Google Maps project.
 - renders markers on map
 - calculates `LatLngBounds` from the markers to ensure they are visible
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/aaronksaunders/flutter_map_markers/master/Screen%20Shot%202019-05-17%20at%208.05.29%20PM.png"  width="50%"/>
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
