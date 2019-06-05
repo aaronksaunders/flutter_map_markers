@@ -71,9 +71,9 @@ class _MainMapState extends State<MainMap> {
   }
 }
 
-//
-// used to calculate the boundry for rendering the markers
-//
+///
+/// used to calculate the boundry for rendering the markers
+///
 class FindBoundsCoordinates {
   LatLngBounds getBounds(Set<MyMarker> locations) {
     List<double> latitudes = [];
